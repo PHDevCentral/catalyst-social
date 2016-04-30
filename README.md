@@ -98,8 +98,3 @@ And the final moment will come when we can just sit down, grab some beer (or wha
 **WHY**
 
 This project is entirely for fun no profit but its open-source, you can use it wherever, however, whenever you want.
-
-
-**Mailing List**
-
-[Mark Heramis](mail://m4rkh3r4m15@hmamail.com)
