@@ -82,13 +82,13 @@ And the final moment will come when we can just sit down, grab some beer (or wha
 - Code Editor - Code editors are essential for big projects like this. Here are some of the best code editors to use for this projects: [netbeans](https://netbeans.org), [eclipse](https://eclipse.org), [webstorm](https://www.jetbrains.com/webstorm), [sublime text 3](https://www.sublimetext.com/3), [brackets](https://brackets.io), [atom](https://atom.io), [notepad++](https://notepad-plus-plus.org/) and more that I am not familiar with.
 
 **HOW TO CONTRIBUTE**
+
+
 1. Clone this repository in your local hard disk.
 2. Open your code editor
 3. Get yourself a cup of coffee or any preferred drinks
 4. Code at your hearts content
-5. Commit changes in a separate branch. Name your branch according to your changes.
-
-    Example branch names are as follows:
+5. Commit changes in a separate branch. Name your branch according to your changes. Example branch names are as follows:
     - left-sidebar - If changes being made is in the sidebar.
     - database - If changes being made has something to do with the database.
     - chat - If changes are about a chat.
